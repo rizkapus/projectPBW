@@ -1,0 +1,39 @@
+
+h1{
+	transform: translate(580px, 200px);
+	color: white;
+	font-size: 35px;
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 15px;
+	width: 200px;
+	text-align: center;
+	animation-name: changing;
+	animation-duration: 10s;
+
+}
+
+
+
+form{
+	width: 15%;
+	height: 125px;
+	border-radius: 3px;
+	background-color: rgba(239, 225, 174, 0.5);
+	box-shadow: 1px 1px 50px 3px #d16c6c;
+	transform: translate(565px, 200px);
+	padding-top: 25px;
+	padding-left: 30px;
+
+}
+
+#membered{
+	font-size: 10px;
+	clear: both;
+	transform: translateX(-20px);
+}
+
+#tombol{
+	float: right;
+	margin-right: 30px;
+
+}
